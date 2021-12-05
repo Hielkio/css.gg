@@ -25,7 +25,7 @@
 .gg-swap::before {
     border-left: 3px solid;
     top: -4px;
-    right: -4px
+    right: -7px
 }
 
 .gg-swap::after {
